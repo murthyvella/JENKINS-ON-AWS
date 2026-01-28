@@ -1,3 +1,5 @@
+For official Documention to install jenkins on different distribution you can follow this URL:https://www.jenkins.io/doc/book/installing/linux/
+
 Jenkins Installation on Ubuntu (with Java 21)
 
 This guide explains how to install Jenkins on an Ubuntu Linux system using OpenJDK 21.
@@ -67,3 +69,5 @@ http://<your-server-ip>:8080
 To get the initial admin password:
 
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+
